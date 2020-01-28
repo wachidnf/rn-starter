@@ -1,4 +1,4 @@
 For Newbie.
-Learning React Native with Expo CLI
+Learning React Native using Expo CLI
 
 Course Udemy by Instructor Stephen Grider
